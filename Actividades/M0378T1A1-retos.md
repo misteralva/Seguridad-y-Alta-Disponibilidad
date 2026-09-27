@@ -14,6 +14,8 @@ Al investigar el origen, se comprobó que el ataque empezó en el ordenador del 
 
 Los equipos afectados fueron los puestos de trabajo de los comerciales y los discos conectados al ordenador del primer afectado, que quedaron cifrados. Aun así, hubo una parte positiva: las copias de seguridad estaban guardadas en un disco externo que no estaba conectado al ordenador, por lo que el ransomware no pudo cifrarlas.
 
+![ransomware](img/ransomware.jpg)
+
 ### Causas del incidente
 El incidente empezó por el error de una persona, pero no debería ser posible que el fallo de un solo empleado pare la mitad de una oficina. Esto demuestra que la empresa tenía varios puntos débiles. En primer lugar, faltaba formación. El empleado no supo reconocer un correo sospechoso y no sabía que no debía reenviar un archivo dudoso a sus compañeros. En segundo lugar, no existían procedimientos claros sobre qué hacer con los correos extraños ni a quién avisar. Por último, las medidas técnicas no fueron suficientes, ya que el antimalware y el filtro de correo no detuvieron el archivo, y un solo equipo infectado pudo contagiar a otros con mucha rapidez.
 
