@@ -1,12 +1,12 @@
-# ASIR 2º - Seguridad y Alta Disponibilidad (0378)
-Especialización en Ciberseguridad | FP Administració de Sistemes Informàtics en Xarxa
+# ASIR 2nd Year - Security and High Availability (0378)
 
-Repositorio oficial para las prácticas, retos, análisis de tráfico, configuraciones de seguridad y simulaciones de incidentes correspondientes al módulo **0378 Seguridad y Alta Disponibilidad**.
+**Cybersecurity Specialization | Network Systems Administration (ASIR)**
 
----
+Official repository for the practical exercises, challenges, traffic analysis, security configurations and incident simulations of module 0378, Security and High Availability.
 
-## 🛡️ Contenidos Principales
-* **OSINT y DNS:** Investigación de infraestructura, herramientas de consulta (`dig`, `whois`) y análisis de resolución de nombres.
-* **Seguridad de Redes:** Análisis de tráfico y protocolos con Wireshark, filtrado de paquetes y endurecimiento de servicios.
-* **Respuesta ante Incidentes:** Simulación de ataques (Ransomware, Phishing) y planes de contingencia.
-* **Alta Disponibilidad y Copias de Seguridad:** Estrategias de backup, redundancia, tolerancia a fallos y recuperación ante desastres.
+## 🛡️ Main Contents
+
+- **OSINT and DNS:** Infrastructure research, lookup tools (`dig`, `whois`) and name resolution analysis.
+- **Network Security:** Traffic and protocol analysis with Wireshark, packet filtering and service hardening.
+- **Incident Response:** Simulation of attacks (ransomware, phishing) and contingency plans.
+- **High Availability and Backups:** Backup strategies, redundancy, fault tolerance and disaster recovery.
